@@ -1,5 +1,3 @@
 # download relevant gifs and imgs to explain thinking process 
 # use pyplot to plot training and val acc and loss
-# write code to run prediction on test data
-# figure out how to get data from lta site or from kaggle for tech paper
-# current tech paper topic: real-time web traffic analysis and prediction
+# current tech paper topic: image classification of handwritten letters (decide between tamil and korean)
