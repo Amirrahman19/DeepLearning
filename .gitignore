@@ -3,3 +3,7 @@ my_dir
 tmp
 glove.twitter.27B.200d.txt
 glove.twitter.27B.200d.txt.zip 
+
+*.zip
+*/~/*
+.DS_Store
