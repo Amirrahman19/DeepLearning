@@ -1,3 +1,0 @@
-# download relevant gifs and imgs to explain thinking process 
-# use pyplot to plot training and val acc and loss
-# current tech paper topic: image classification of handwritten letters (decide between tamil and korean)
