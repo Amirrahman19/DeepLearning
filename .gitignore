@@ -1,9 +1,8 @@
 .ipynb_checkpoints/
 my_dir
-tmp
+tmp/
 glove.twitter.27B.200d.txt
 glove.twitter.27B.200d.txt.zip 
-models/*
 *.zip
 */~/*
 .DS_Store
