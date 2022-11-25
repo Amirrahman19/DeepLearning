@@ -6,3 +6,4 @@ glove.twitter.27B.200d.txt.zip
 *.zip
 */~/*
 .DS_Store
+~WRL0005.tmp
